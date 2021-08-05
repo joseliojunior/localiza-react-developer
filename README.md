@@ -13,11 +13,11 @@ Deixarei agrupado pastas que terão soluções em JavaScript para os vários cas
 
 **Desafios** → *joseliojunior/localiza-react-developer/challenges*
 
-- ↳	[1.1 - Cálculo de Viagem]()
-- ↳	[1.2 - Visita na Feira]()
-- ↳	[1.3 - Multiplicação Simples]()
-- ↳	[2.1 - Fibonacci Fácil]()
-- ↳	[2.2 - Preenchimento de Vetor I]()
-- ↳	[2.3 - Substituição em Vetor I]()
-- ↳	[3.1 - Contagem de Cédulas]()
+- ↳	[1.1 - Cálculo de Viagem](https://github.com/joseliojunior/localiza-react-developer/blob/main/challenges/firstgroup/01.%20C%C3%A1lculo%20de%20Viagem.js)
+- ↳	[1.2 - Visita na Feira](https://github.com/joseliojunior/localiza-react-developer/blob/main/challenges/firstgroup/02.%20Visita%20na%20Feira.js)
+- ↳	[1.3 - Multiplicação Simples](https://github.com/joseliojunior/localiza-react-developer/blob/main/challenges/firstgroup/03.%20Multiplica%C3%A7%C3%A3o%20Simples.js)
+- ↳	[2.1 - Fibonacci Fácil](https://github.com/joseliojunior/localiza-react-developer/blob/main/challenges/secondgroup/01.%20Fibonacci%20F%C3%A1cil.js)
+- ↳	[2.2 - Preenchimento de Vetor I](https://github.com/joseliojunior/localiza-react-developer/blob/main/challenges/secondgroup/02.%20Preenchimento%20de%20Vetor%20I.js)
+- ↳	[2.3 - Substituição em Vetor I](https://github.com/joseliojunior/localiza-react-developer/blob/main/challenges/secondgroup/03.%20Substitui%C3%A7%C3%A3o%20em%20Vetor%20I.js)
+- ↳	[3.1 - Contagem de Cédulas](https://github.com/joseliojunior/localiza-react-developer/blob/main/challenges/thirdgroup/01.%20Contagem%20de%20C%C3%A9dulas.js)
 - ↳	[3.2 - Quanta Mandioca](https://github.com/joseliojunior/MRV-Front-End-SPA-Developer/blob/main/challenges/thirdgroup/03.%20Quanta%20Mandioca.js)
