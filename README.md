@@ -21,3 +21,4 @@ Deixarei agrupado pastas que terão soluções em JavaScript para os vários cas
 - ↳	[2.3 - Substituição em Vetor I](https://github.com/joseliojunior/localiza-react-developer/blob/main/challenges/secondgroup/03.%20Substitui%C3%A7%C3%A3o%20em%20Vetor%20I.js)
 - ↳	[3.1 - Contagem de Cédulas](https://github.com/joseliojunior/localiza-react-developer/blob/main/challenges/thirdgroup/01.%20Contagem%20de%20C%C3%A9dulas.js)
 - ↳	[3.2 - Quanta Mandioca](https://github.com/joseliojunior/MRV-Front-End-SPA-Developer/blob/main/challenges/thirdgroup/03.%20Quanta%20Mandioca.js)
+- ↳	[3.3 - Programa para Validação de Notas](?)
