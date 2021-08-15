@@ -3,7 +3,7 @@
   <img src="https://badges.pufler.dev/updated/joseliojunior/localiza-react-developer">
 </p>
 
-# Que bom ter você por aqui! 🤩
+# Que bom ter você por aqui! 🤩 ![](https://joseliojunior.github.io/data/icons/javascript/sq.svg)
 
 Deixarei agrupado pastas que terão soluções em JavaScript para os vários casos propostos no bootcamp Localiza React Developer da DIO (*Digital Innovation One*).
 
