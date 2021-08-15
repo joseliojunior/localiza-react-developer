@@ -11,7 +11,7 @@ Deixarei agrupado pastas que terão soluções em JavaScript para os vários cas
 
 <h2 align="center">⚠ <br>Atenção!!!<br>Ver as soluções aqui apresentadas antes de tentar solucionar os desafios por sua conta põe em risco seu próprio aprendizado!<br> ⚠</h2>
 
-**Desafios** → *joseliojunior/localiza-react-developer/challenges*
+**Aviso** → Algumas soluções precisam de uma pequena adaptação, devido solucionarem em plataformas diferentes.
 
 - ↳	[1.1 - Cálculo de Viagem](https://github.com/joseliojunior/localiza-react-developer/blob/main/challenges/firstgroup/01.%20C%C3%A1lculo%20de%20Viagem.js)
 - ↳	[1.2 - Visita na Feira](https://github.com/joseliojunior/localiza-react-developer/blob/main/challenges/firstgroup/02.%20Visita%20na%20Feira.js)
